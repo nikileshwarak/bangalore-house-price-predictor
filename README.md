@@ -120,3 +120,8 @@ ssh -i "C:\Users\Nikil\.ssh\Banglore.pem" ubuntu@ec2-3-133-88-210.us-east-2.comp
    Running last command above will prompt that server is running on port 5000.
 
 8. Now just load your cloud url in browser (for me it was http://ec2-13-53-148-180.eu-north-1.compute.amazonaws.com/) and this will be fully functional website running in production cloud environment
+
+
+## SCREENSHOTS
+
+![image](https://github.com/user-attachments/assets/a07dcd3d-1156-42de-8588-e9476dbd3f20)
